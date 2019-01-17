@@ -1,15 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 18 - Bearer Authorization
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [repo](https://github.com/michaelageorge/18-authorization)
+* [travis](https://travis-ci.com/michaelageorge/18-authorization)
+* [heroku](http://xyz.com) (when applicable)
 
 #### Documentation
 * [swagger](http://xyz.com) (API assignments only)
@@ -44,3 +43,6 @@ Usage Notes or examples
 
 #### UML
 Link to an image of the UML for your application and response to events
+
+### Help and Citations
+
